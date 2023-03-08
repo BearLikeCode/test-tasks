@@ -1,5 +1,5 @@
 {
-  "name": "lord-of-rings-sdk",
+  "name": "bearcoder-lord-of-rings-sdk",
   "version": "1.0.0",
   "scripts": {
     "start": "nodemon ./bin/www"
